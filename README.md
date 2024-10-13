@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gabriel Rodrigues
-
+###
 - 🖥️ Desenvolvedor Front-End
 - 🎓 Cursando ADS na Puc Minas
 - 🌎 Minas Gerais - BR
