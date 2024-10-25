@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Rodrigues
+## Olá! Eu sou o Gabriel Eduardo
 ###
 - 🖥️ Desenvolvedor Front-End
 - 🎓 Cursando ADS na Puc Minas
