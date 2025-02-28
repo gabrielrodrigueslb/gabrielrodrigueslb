@@ -1,4 +1,7 @@
 ## Olá! Eu sou o Gabriel Eduardo 🏹
+Desenvolvedor Front-End com experiência em projetos freelancer e desenvolvimento de landing pages. 
+Atualmente cursando Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2027. Possuo experiência com React, JavaScript, Sass  e outras tecnologias. Apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades para criar interfaces modernas, responsivas e otimizadas.
+
 ###
 - 🖥️ Desenvolvedor Front-End
 - 🎓 Cursando ADS na Puc Minas
