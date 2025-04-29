@@ -1,21 +1,38 @@
 ## Olá! Eu sou o Gabriel Eduardo 🏹
-Desenvolvedor Front-End com experiência em projetos freelancer e desenvolvimento de landing pages. 
-Atualmente cursando Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2027. Possuo experiência com React, JavaScript, Sass  e outras tecnologias. Apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades para criar interfaces modernas, responsivas e otimizadas.
 
-###
-- 🖥️ Desenvolvedor Front-End
-- 🎓 Cursando ADS na Puc Minas
-- 🌎 Minas Gerais - BR
+## 👨‍💻 About Me
 
-###
-## Techs
+> Desenvolvedor Front-End
+ 
+**Desenvolvedor Front-End** com experiência em aplicações web, especializado em JavaScript e React, com foco em construir soluções robustas e escaláveis. Tenho domínio prático de **React, Sass, Bootstrap, Axios**, além de estar me aprofundando em **Node.js, MySQL e desenvolvimento full stack**. 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em 2027. Tenho mais de **7 anos de experiência no mercado de trabalho**, atuando em diversas áreas, desde design gráfico até atendimento ao cliente, o que me proporcionou **soft skills** como adaptabilidade, comunicação assertiva, entre outras.
+
+---
+
+### 📌 Cargo atual
+- 💻 **Técnico em TI** na Saúde e Benefícios Previna
+
+### 🎓 Educação
+- 🎓 Análise e Desenvolvimento de Sistemas (PUC Minas)
+
+#### 📫 **Conecte-se comigo:**  
+
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/gabrielmelo7/](https://www.linkedin.com/in/gabrielmelo7](https://www.linkedin.com/in/gabrielrodrigueslb/)
+
+- 📧 **E-mail:** [bieleduardo06@gmail.com](mailto:bieleduardo06@gmail.com)
+
+---
+
+### 🛠️ Técnologias e Ferramentas
+
+<br/>
+
+🛠️ **Languagens & Frameworks**
+<br/>
+
+<div style="display: flex; gap: 10px;>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width:"40" alt="javascript logo"  />
   &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" />
   &nbsp
