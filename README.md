@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Eduardo 🏹
+## Olá! Eu sou o Gabriel Eduardo
 
 ## 👨‍💻 About Me
 
@@ -18,7 +18,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com previsão de
 
 #### 📫 **Conecte-se comigo:**  
 
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/gabrielmelo7/](https://www.linkedin.com/in/gabrielmelo7](https://www.linkedin.com/in/gabrielrodrigueslb/)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/gabrielrodrigueslb/](https://www.linkedin.com/in/gabrielrodrigueslb/)
 
 - 📧 **E-mail:** [bieleduardo06@gmail.com](mailto:bieleduardo06@gmail.com)
 
@@ -28,21 +28,40 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com previsão de
 
 <br/>
 
-🛠️ **Languagens & Frameworks**
+🛠️ **Linguagens & Frameworks**
 <br/>
 
-<div style="display: flex; gap: 10px;>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width:"40" alt="javascript logo"  />
-  &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" />
-  &nbsp
+<div style="display: flex; gap: 10px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/800px-Sass_Logo_Color.svg.png" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40"/>
+          
 </div>
 
-###
+<br/>
 
-###
+**🛢️ Databases & Cloud**
+<br/>
 
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40">
+  <img src="https://camo.githubusercontent.com/fefd328256fa569e9d98dae1a06d995102ccd3b605b7173b41ce39fc5588bc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707269736d612f707269736d612d6f726967696e616c2e737667" width="40">
+</div>
+
+<br/>
+
+🛠️ **Dev**
+<br/>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" />
+</div>
 
 
 
