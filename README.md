@@ -11,7 +11,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com previsão de
 ---
 
 ### 📌 Cargo atual
-- 💻 **Técnico em TI** na Saúde e Benefícios Previna
+- 💻 **Assistente de Programação** na Único Contato
 
 ### 🎓 Educação
 - 🎓 Análise e Desenvolvimento de Sistemas (PUC Minas)
