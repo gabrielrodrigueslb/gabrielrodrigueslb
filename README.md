@@ -24,7 +24,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com previsão de
 
 ---
 
-### 🛠️ Técnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <br/>
 
