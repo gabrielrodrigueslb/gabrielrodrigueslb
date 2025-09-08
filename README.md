@@ -4,7 +4,7 @@
 
 > Desenvolvedor Front-End
  
-**Desenvolvedor Front-End** com experiência em aplicações web, especializado em JavaScript e React, com foco em construir soluções robustas e escaláveis. Tenho domínio prático de **React, Sass, Bootstrap, Axios**, além de estar me aprofundando em **Node.js, MySQL e desenvolvimento full stack**. 
+**Desenvolvedor Front-End** com experiência em aplicações web, especializado em JavaScript e React, com foco em construir soluções robustas e escaláveis. Tenho domínio prático de **React,TypeScript, Sass, Tailwind, Axios**, além de estar me aprofundando em **Node.js, MySQL e desenvolvimento full stack**. 
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em 2027. Tenho mais de **7 anos de experiência no mercado de trabalho**, atuando em diversas áreas, desde design gráfico até atendimento ao cliente, o que me proporcionou **soft skills** como adaptabilidade, comunicação assertiva, entre outras.
 
